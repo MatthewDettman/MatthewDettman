@@ -1,27 +1,12 @@
-### Hello there 
+
+<br/>
+
+- [Schedule Time](https://SecondDifferenceSolutions.com/consult){target="_blank"} to get help.  
+- [Second Difference Solutions - LinkedIn](https://www.linkedin.com/company/second-difference-solutions/){target="_blank"}
+- [Matthew Dettman, ChFC, CLU - LinkedIn](https://www.linkedin.com/in/matthewdettman/){target="_blank"}
+
+
+
+<br/>
 
 :thumbsup::thumbsup::thumbsup:
-
-#### Environment/IDE
- - [The R Project for Statistical Computing](https://www.r-project.org/)
- - [RStudio](https://www.rstudio.com/)
-
-#### Core Data Sciene Tools  
-  
-  - [tidyverse](https://www.tidyverse.org/)
-
-#### Quantitative Modeling
-   - [tidyquant](https://business-science.github.io/tidyquant/)
-   - [tidymodels](https://www.tidymodels.org/)
-    
-#### Time Series 
- - [timetk](https://business-science.github.io/timetk/)
- - [model time](https://business-science.github.io/modeltime/)
- 
- #### Interactive Web Applications
- 
- - [shiny](https://shiny.rstudio.com/)
- 
- #### Reporting 
- 
-  - [RMarkdown](https://rmarkdown.rstudio.com/)
