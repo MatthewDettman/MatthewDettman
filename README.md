@@ -1,8 +1,7 @@
 
 <br/>
 
-- [Calendar App](https://SecondDifferenceSolutions.com/consult){target="_blank"} to get help.  
-
+- [Calendar App](https://SecondDifferenceSolutions.com/consult)
 
 
 
